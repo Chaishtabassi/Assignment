@@ -1,5 +1,7 @@
 I change the Logo and the color of the app bcz thelogo is not provided so thats why but the funtionality of the app is as it is same as given in the images . 
 
+https://github.com/Chaishtabassi/Assignment/assets/95671276/b1daf10a-3b59-416f-b531-989e167b6b70
+
 
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
