@@ -1,3 +1,6 @@
+I change the Logo and the color of the app bcz thelogo is not provided so thats why but the funtionality of the app is as it is same as given in the images . 
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
@@ -71,6 +74,7 @@ If you can't get this to work, see the [Troubleshooting](https://reactnative.dev
 # Learn More
 
 To learn more about React Native, take a look at the following resources:
+
 
 - [React Native Website](https://reactnative.dev) - learn more about React Native.
 - [Getting Started](https://reactnative.dev/docs/environment-setup) - an **overview** of React Native and how setup your environment.
