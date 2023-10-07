@@ -2,6 +2,8 @@ I change the Logo and the color of the app bcz thelogo is not provided so thats 
 
 https://github.com/Chaishtabassi/Assignment/assets/95671276/b1daf10a-3b59-416f-b531-989e167b6b70
 
+![Screenshot_2023-10-07-12-52-02-571_com assignment 1](https://github.com/Chaishtabassi/Assignment/assets/95671276/0051da7d-d3b3-44d7-aa5c-09fedd0506dd)
+
 ![Screenshot_2023-10-07-12-52-24-512_com assignment 1](https://github.com/Chaishtabassi/Assignment/assets/95671276/48e0a537-9cd0-4094-8597-5cae79110f53)
 
 
