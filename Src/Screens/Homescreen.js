@@ -43,7 +43,6 @@ const Homescreen = () => {
     <Image source={require('../Assets/search.png')} style={styles.icon} />
     <View style={{position: 'relative'}}>
       <Image source={require('../Assets/notification.png')} style={styles.icon} />
-      {/* Add a red dot in the upper right corner */}
       <View style={{position: 'absolute', backgroundColor: 'red', width: 10, height: 10, borderRadius: 5, top: 0, right: 0}}></View>
     </View>
   </View>
@@ -58,7 +57,6 @@ const Homescreen = () => {
     style={{width:'100%'}}
       data={Homedata}
       renderItem={({ item }) => (
-       // Inside the renderItem function
        <View style={styles.itemContainer}>
        <View style={styles.innerContainer}>
        </View>
@@ -95,7 +93,7 @@ const Homescreen = () => {
       )}
       horizontal={true}
       showsHorizontalScrollIndicator={false}
-      keyExtractor={(item) => item.id.toString()} // Provide a unique key for each item
+      keyExtractor={(item) => item.id.toString()} 
     />
   </View>
 )}
